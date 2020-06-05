@@ -6,8 +6,8 @@ waterrower-s4-apm
 .. image:: https://img.shields.io/pypi/v/waterrower_s4_apm.svg
         :target: https://pypi.python.org/pypi/waterrower_s4_apm
 
-.. image:: https://img.shields.io/travis/DoPaNik/waterrower_s4_apm.svg
-        :target: https://travis-ci.com/DoPaNik/waterrower_s4_apm
+.. image:: https://img.shields.io/travis/DoPaNik/waterrower-s4-apm.svg
+        :target: https://travis-ci.org/DoPaNik/waterrower-s4-apm
 
 .. image:: https://readthedocs.org/projects/waterrower-s4-apm/badge/?version=latest
         :target: https://waterrower-s4-apm.readthedocs.io/en/latest/?badge=latest
