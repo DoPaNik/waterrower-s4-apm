@@ -22,8 +22,6 @@ waterrower-s4-apm
 
 Waterrower S4 advanced performance monitor and logbook to save and export your rowing trips strava...
 
-
-* Free software: GNU General Public License v3
 * Documentation: https://waterrower-s4-apm.readthedocs.io.
 
 
